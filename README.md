@@ -1,4 +1,5 @@
 ### Hi there 👋, my name is Ethan
+___
 I'm currently a second year Data Science major at the University of California, San Diego. I first began coding in middle-school, when I created a tower defense game in Unity Engine. Since then, I've set my sights on Data Science and never looked back.  I love anything to do with data, whether that be Data Analytics, Machine Learning, or anything Data Science, because there is so much to learn from it! Recently, I've set my sights on Web Development so I can showcase some of my work. Please feel free to contact me or submit a pull request if you have any recommendations. Thanks for stopping by!
 
 | Languages I'm Using | Tools I'm Using | What I'm Learning |
@@ -10,6 +11,14 @@ I'm currently a second year Data Science major at the University of California, 
 | CSS <img width=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>| Scikit-learn <img width=40 src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/> |
 |Git <img width=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> | Jupyter <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 
+#### Current Projects
+___
+##### Gamer Time
 
+#### Past Projects
+___
+##### League of Legends Win Predictor
+
+##### Visualization Showcase
 
 
