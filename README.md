@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Ethan
+I'm currently a second year Data Science major at the University of California, San Diego. I first began coding in middle-school, when I created a tower defense game in Unity Engine. Since then, I've set my sights on Data Science and never looked back.  I love anything to do with data, whether that be Data Analytics, Machine Learning, or anything Data Science, because there is so much to learn from it! Recently, I've set my sights on Web Development so I can showcase some of my work. Please feel free to contact me or submit a pull request if you have any recommendations. Thanks for stopping by!
 
-<!--
-**Ethan-Shapiro/Ethan-Shapiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Languages I'm Using | Tools I'm Using | What I'm Learning |
+| ----------- | ----------- | ----------- |
+| Python <img width=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>| NumPy <img width=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />| Plotly <img width=75 src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png"/>|
+| Javascript <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>  | Pandas <img width=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />| Electron <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" /> |
+|PostgreSQL <img width=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>|Flask <img width=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />| PyTorch <img width=20 src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/>|
+|HTML <img width=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>| Bootstrap <img width=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />|
+| CSS <img width=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>| Scikit-learn <img width=40 src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/> |
+|Git <img width=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> | Jupyter <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
