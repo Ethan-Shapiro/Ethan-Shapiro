@@ -8,7 +8,7 @@
 
 I have a passion for gaming and esports, with the goal of making the games fun and exciting while advocating for inclusive gaming communities.
 
-I've also discovered my love for travel after a month long trip to Asia. I met some of my best friends playing games and travel has connected us outside the screen. Just like with games, I would love to make travel planning easier, more collaborative, and cheap!
+I've also discovered my love for travel after a month long trip to Asia. I met some of my best friends playing games and travel has connected us outside the screen. So just like I hope to connect people through the internet, I would love to connect them beyond the screen by making travel planning easier, more collaborative, and cheap!
 
 - ⚙️ I use daily: `python`, `sql`, `pandas`, `pytorch`, `scikit-Learn`, `vscode`
 
